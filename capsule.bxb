@@ -13,6 +13,9 @@ capsule {
   targets {
     target (bixby-mobile-en-US)
   }
+  store-countries {
+    all
+  }
   store-sections {
     section (Utilities)
   }
